@@ -26,7 +26,7 @@ To run this project, you'll need the following libraries:
 
 Here’s a screenshot of the `AudioJ` interface:
 
-![Screenshot](Screenshot 2025-10-07 162719.png)
+![App Screenshot](Screenshot%202025-10-07%20162719.png)
 
 ---
 
