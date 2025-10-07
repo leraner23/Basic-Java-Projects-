@@ -30,6 +30,20 @@ Here’s a screenshot of the `AudioJ` interface:
 
 ---
 
+## 🔮 Future Updates
+
+The following improvements are planned for upcoming versions of the Swing Audio Player:
+
+1. **Make the progress bar more relative and flexible**  
+   - Instead of a fixed duration, dynamically reflect the actual length of the selected MP3 file.
+
+2. **Display the song name in the output**  
+   - Show the currently playing track name in the UI for better user feedback.
+
+3. **Improve the overall UI design**  
+   - Replace `null` layout with responsive layout managers (e.g., `BorderLayout`, `GridBagLayout`)  
+   - Add icons, spacing, and styling for a more polished look.
+
 ## 🚀 How to Run
 
 1. Clone the repository:
