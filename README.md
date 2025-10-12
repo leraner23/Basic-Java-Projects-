@@ -17,9 +17,10 @@ This is a simple Tic Tac Toe game built using **Java Swing**. It features a 3×3
 
 ## 🖼️ Output Preview
 
-Here’s a screenshot of the `Tic Tac Toe` interface:
+Here’s a screenshot of the Tic Tac Toe interface:
 
-![App Screenshot](Screenshot 2025-10-12 211012.png)
+![App Screenshot](Screenshot%202025-10-12%20211012.png)
+
 
 ---
 
